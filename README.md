@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm darth, I'm mostly busy with my work, but occasionally have some free time to learn something new (such as, how to make incremental/narrative games) or play with some publicly available data (e.g. stats for Russian Unified State Exam, or Archive of Our Own engagement stats), which I usually publish here.
+
 <!--
 **darthaline/darthaline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
